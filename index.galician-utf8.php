@@ -171,7 +171,7 @@ $txt['female'] = 'Muller';
 
 $txt['error_invalid_characters_username'] = 'Carácter inválido no nome de usuario.';
 
-$txt['welcome_guest'] = 'Benvido(a), <b>' . $txt[28] . '</b>. Favor de <a href="' . $scripturl . '?action=login">ingresar</a> ou <a href="' . $scripturl . '?action=register">se rexistrar</a>.';
+$txt['welcome_guest'] = 'Benvido(a), <strong>%1$s</strong>. Favor de <a href="' . $scripturl . '?action=login">ingresar</a> ou <a href="' . $scripturl . '?action=register">se rexistrar</a>.';
 $txt['login_or_register'] = 'Por favor <a href="' . $scripturl . '?action=login">inicia sesión</a> ou <a href="' . $scripturl . '?action=register">rexistrate</a>.';
 $txt['welcome_guest_activate'] = '<br />&iquest;Perdíche-lo teu  <a href="' . $scripturl . '?action=activate">email de activacion?</a>';
 $txt['hello_member'] = 'Ola,';
