@@ -4,7 +4,7 @@
 global $context;
 
 // Important! Before editing these language files please read the text at the top of index.english.php.
-$txt['most_online'] = 'Most Online';
+$txt['most_online'] = 'Máis online';
 
 $txt['stats_center'] = 'Statistics Center';
 $txt['general_stats'] = 'General Statistics';
