@@ -4,32 +4,32 @@
 /* Everything in this file is for the Simple Machines help manual
    If you are looking at translating the manual into another language
    please visit the Simple Machines website for tools to assist! */
-$txt['manual_smf_user_help'] = 'SMF User Help';
+$txt['manual_smf_user_help'] = 'Axuda de usuario de SMF';
 
-$txt['manual_welcome'] = 'Welcome to %s, powered by Simple Machines&reg; Forum (SMF) software!';
-$txt['manual_introduction'] = 'SMF is the elegant, effective, powerful and free forum software solution that this site is running. It allows users to communicate in discussion topics on a given subject in a clever and organized manner. Furthermore, it has a number of powerful features which end users can take advantage of. Help for many of SMF\'s features can be found by either clicking the question mark icon next to the relevant section or by selecting one of the links on this page. These links will take you to SMF\'s centrally-located documentation on the Simple Machines official site.';
-$txt['manual_docs_and_credits'] = 'For more information about how to use SMF, please see the <a href="%1$s" target="_blank" class="new_win">Simple Machines Documentation Wiki</a> and check out the <a href="%2$s">credits</a> to find out who has made SMF what it is today.';
+$txt['manual_welcome'] = 'Benvido a %s, funcionando co software Simple Machines&reg; Forum (SMF)!';
+$txt['manual_introduction'] = 'SMF é unha solución elegante, efectiva, potente e libre de software de foro que este sitio está correndo. Permite os usuario comunicarse en temas de discusión sobre un asunto dado nunha forma intelixente e organizada. Ademáis, ten un número de características potentes das que os usuarios finais poden tomar vantaxe. A axuda para moitas das características de SMF pode atoparse clicando no icono do signo de interrogación o carón da sección relevante ou seleccionando unha das ligazóns desta páxina. Estas ligazóns levarano a documentación centralizada de SMF no sitio oficial de Simple Machines.';
+$txt['manual_docs_and_credits'] = 'Para máis información sobre como usar SMF, por favor vexa a <a href="%1$s" target="_blank" class="new_win">Wiki de Documentación de Simple Machines</a> e vexa os <a href="%2$s">créditos</a> para saber quen fixo de SMF o que é hoxe.';
 
-$txt['manual_section_registering_title'] = 'Registering';
-$txt['manual_section_logging_in_title'] = 'Logging In';
-$txt['manual_section_profile_title'] = 'Profile';
-$txt['manual_section_search_title'] = 'Search';
-$txt['manual_section_posting_title'] = 'Posting';
+$txt['manual_section_registering_title'] = 'Rexistrandose';
+$txt['manual_section_logging_in_title'] = 'Iniciando sesión';
+$txt['manual_section_profile_title'] = 'Perfil';
+$txt['manual_section_search_title'] = 'Procura';
+$txt['manual_section_posting_title'] = 'Publicando';
 $txt['manual_section_bbc_title'] = 'Bulletin Board Code (BBC)';
-$txt['manual_section_personal_messages_title'] = 'Personal Messages';
-$txt['manual_section_memberlist_title'] = 'Memberlist';
-$txt['manual_section_calendar_title'] = 'Calendar';
-$txt['manual_section_features_title'] = 'Features';
+$txt['manual_section_personal_messages_title'] = 'Mensaxes persoais';
+$txt['manual_section_memberlist_title'] = 'Lista de membros';
+$txt['manual_section_calendar_title'] = 'Calendario';
+$txt['manual_section_features_title'] = 'Características';
 
-$txt['manual_section_registering_desc'] = 'Many forums require users to register to gain full access.';
-$txt['manual_section_logging_in_desc'] = 'Once registered, users must login to access their account.';
-$txt['manual_section_profile_desc'] = 'Each member has their own personal profile.';
-$txt['manual_section_search_desc'] = 'Searching is an extremely helpful tool for finding information in posts and topics.';
-$txt['manual_section_posting_desc'] = 'The whole point of a forum, posting allows users to express themselves.';
-$txt['manual_section_bbc_desc'] = 'Posts can be spiced up with a little BBC.';
-$txt['manual_section_personal_messages_desc'] = 'Users can send personal messages to each other.';
-$txt['manual_section_memberlist_desc'] = 'The memberlist shows all the members of a forum.';
-$txt['manual_section_calendar_desc'] = 'Users can keep track of events, holidays, and birthdays with the calendar.';
-$txt['manual_section_features_desc'] = 'Here is a list of the most popular features in SMF.';
+$txt['manual_section_registering_desc'] = 'Moitos foros requires que os usuarios se rexistren para gañar acceso completo.';
+$txt['manual_section_logging_in_desc'] = 'Unha vez rexistrados, os usuarios deben iniciar sesión para gañar acceso a súa conta.';
+$txt['manual_section_profile_desc'] = 'Cada membro ten o seu perfil persoal.';
+$txt['manual_section_search_desc'] = 'A procura é unha ferramenta extremadamente últo para buscar información en posts e temas.';
+$txt['manual_section_posting_desc'] = 'O obxectivo dun foro, publicar permite os usuarios expresarse.';
+$txt['manual_section_bbc_desc'] = 'Os posts poden apimentarse cun pouco de BBC.';
+$txt['manual_section_personal_messages_desc'] = 'Os usuarios poden mandarse mensaxes persoais entre elese.';
+$txt['manual_section_memberlist_desc'] = 'A lista de membros amosa todos os membros do foro.';
+$txt['manual_section_calendar_desc'] = 'Os usuarios poden seguir os eventos, vacacións, e aniversarios co calendario.';
+$txt['manual_section_features_desc'] = 'Aquí están a lista das características máis populares de SMF.';
 
 ?>
