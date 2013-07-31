@@ -6,25 +6,25 @@ global $context;
 // Important! Before editing these language files please read the text at the top of index.english.php.
 $txt['most_online'] = 'Máis online';
 
-$txt['stats_center'] = 'Statistics Center';
-$txt['general_stats'] = 'General Statistics';
-$txt['top_posters'] = 'Top 10 Posters';
-$txt['top_boards'] = 'Top 10 Boards';
-$txt['forum_history'] = 'Forum History (using forum time offset)';
-$txt['stats_date'] = 'Date (yyyy/mm/dd)';
-$txt['stats_new_topics'] = 'New Topics';
-$txt['stats_new_posts'] = 'New Posts';
-$txt['stats_new_members'] = 'New Members';
-$txt['page_views'] = 'Page views';
-$txt['top_topics_replies'] = 'Top 10 Topics (by Replies)';
-$txt['top_topics_views'] = 'Top 10 Topics (by Views)';
-$txt['yearly_summary'] = 'Yearly Summary';
+$txt['stats_center'] = 'Centro de estatísticas';
+$txt['general_stats'] = 'Estatísticas xerais';
+$txt['top_posters'] = 'Top 10 de Publicadores';
+$txt['top_boards'] = 'Top 10 de Taboleiros';
+$txt['forum_history'] = 'Histórico do foro (usando a diferenza de tempo do foro)';
+$txt['stats_date'] = 'Data (yyyy/mm/dd)';
+$txt['stats_new_topics'] = 'Novos temas';
+$txt['stats_new_posts'] = 'Novos Posts';
+$txt['stats_new_members'] = 'Novos membros';
+$txt['page_views'] = 'Páxinas vistas';
+$txt['top_topics_replies'] = 'Top 10 de Temas (por respostas)';
+$txt['top_topics_views'] = 'Top 10 de Temas (por visualizacións)';
+$txt['yearly_summary'] = 'Resumo anual';
 $txt['smf_stats_14'] = 'Max. usuarios conectados';
-$txt['top_starters'] = 'Top Topic Starters';
-$txt['most_time_online'] = 'Most Time Online';
-$txt['best_karma'] = 'Best Karma';
-$txt['worst_karma'] = 'Worst Karma';
-$txt['stats_more_detailed'] = 'mais detallado &raquo;';
+$txt['top_starters'] = 'Top Comezos de Tema';
+$txt['most_time_online'] = 'Máis tempo en liña';
+$txt['best_karma'] = 'Mellor Karma';
+$txt['worst_karma'] = 'Peor Karma';
+$txt['stats_more_detailed'] = 'máis detallado &raquo;';
 
 $txt['average_members'] = 'Promedio de rexistros ó día';
 $txt['average_posts'] = 'Promedio de mensaxes ó día';
@@ -36,10 +36,10 @@ $txt['users_online_today'] = 'Usuarios conectados no día';
 $txt['num_hits'] = 'Total de hits';
 $txt['average_hits'] = 'Promedio de hits por día';
 
-$txt['ssi_comment'] = 'comment';
-$txt['ssi_comments'] = 'comments';
-$txt['ssi_write_comment'] = 'Write Comment';
-$txt['ssi_no_guests'] = 'You cannot specify a board that doesn\'t allow guests.  Please check the board ID before trying again.';
-$txt['xml_rss_desc'] = 'Informacion en vivo dende ' . $context['forum_name'];
+$txt['ssi_comment'] = 'comentario';
+$txt['ssi_comments'] = 'comentarios';
+$txt['ssi_write_comment'] = 'Escribir Comentario';
+$txt['ssi_no_guests'] = 'Non podes especificar un taboleiro que non admite invitados. Por favor, comproba o ID do taboleiro antes de probar de novo.';
+$txt['xml_rss_desc'] = 'Información en vivo dende ' . $context['forum_name'];
 
 ?>
