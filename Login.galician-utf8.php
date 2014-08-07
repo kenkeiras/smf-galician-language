@@ -5,34 +5,34 @@ global $context;
 
 // Important! Before editing these language files please read the text at the top of index.english.php.
 // Registration agreement page.
-$txt['registration_agreement'] = 'Registration Agreement';
-$txt['agreement_agree'] = 'I accept the terms of the agreement.';
-$txt['agreement_agree_coppa_above'] = 'I accept the terms of the agreement and I am at least %1$d years old.';
-$txt['agreement_agree_coppa_below'] = 'I accept the terms of the agreement and I am younger than %1$d years old.';
+$txt['registration_agreement'] = 'Acordo de rexistro';
+$txt['agreement_agree'] = 'Acepto os termos do acordo';
+$txt['agreement_agree_coppa_above'] = 'Acepto os termos do acordo e teño polo menos %1$d anos.';
+$txt['agreement_agree_coppa_below'] = 'Acepto os termos do acordo e teño menos de %1$d anos.';
 
 // Registration form.
-$txt['registration_form'] = 'Registration Form';
-$txt['need_username'] = 'You need to fill in a username.';
-$txt['no_password'] = 'You didn\'t enter your password.';
-$txt['incorrect_password'] = 'Password incorrect';
-$txt['choose_username'] = 'Choose username';
-$txt['maintain_mode'] = 'Maintenance Mode';
-$txt['registration_successful'] = 'Registration Successful';
-$txt['now_a_member'] = 'Success! You are now a member of the forum.';
+$txt['registration_form'] = 'Formulario de rexistro';
+$txt['need_username'] = 'Tes que cubrir o nome de usuario.';
+$txt['no_password'] = 'Non introduciches un contrasinal.';
+$txt['incorrect_password'] = 'Contrasinal incorrecto';
+$txt['choose_username'] = 'Escolle un nome de usuario';
+$txt['maintain_mode'] = 'Modo de mantemento';
+$txt['registration_successful'] = 'Rexistro completado con éxito';
+$txt['now_a_member'] = 'Éxito! Agora es un membro do foro.';
 // Use numeric entities in the below string.
-$txt['your_password'] = 'and your password is';
-$txt['valid_email_needed'] = 'Please enter a valid email address, %1$s.';
-$txt['required_info'] = 'Required Information';
-$txt['identification_by_smf'] = 'Used to identify you on the forum.';
-$txt['additional_information'] = 'Additional Information';
-$txt['warning'] = 'Warning!';
-$txt['only_members_can_access'] = 'Only registered members are allowed to access this section.';
-$txt['login_below'] = 'Please login below or';
-$txt['register_an_account'] = 'register an account';
-$txt['login_with_forum'] = 'with %1$s.';
+$txt['your_password'] = 'e o teu contrasinal é';
+$txt['valid_email_needed'] = 'Por favor, introduce un email válido, %1$s.';
+$txt['required_info'] = 'Información necesaria';
+$txt['identification_by_smf'] = 'Usada para identificalo no foro.';
+$txt['additional_information'] = 'Información adicional';
+$txt['warning'] = 'Aviso!';
+$txt['only_members_can_access'] = 'So os membros rexistrados teñen permitido o acceso a esta sección.';
+$txt['login_below'] = 'Por favor, inicia sesión máis abaixo ou';
+$txt['register_an_account'] = 'rexistra unha conta';
+$txt['login_with_forum'] = 'con %1$s.';
 // Use numeric entities in the below two strings.
-$txt['may_change_in_profile'] = 'You may change it after you login by going to the profile page, or by visiting this page after you login:';
-$txt['your_username_is'] = 'Your username is: ';
+$txt['may_change_in_profile'] = 'Poderás cambialo/a despois de iniciar sesión accedendo a páxina do perfil, ou visitando esta:';
+$txt['your_username_is'] = 'O teu nome de usuario é: ';
 
 $txt['login_hash_error'] = 'O esquema para a seguridade das contrasinais foi actualizado recentemente.  Por favor, introduce a túa contrasinal novamente.';
 
@@ -55,18 +55,18 @@ $txt['invalid_activation_known'] = 'Se xa coñéce-lo teu c&oacutedigo de activa
 $txt['invalid_activation_retry'] = 'Codigo de activacion';
 $txt['invalid_activation_submit'] = 'Activar';
 
-$txt['coppa_no_concent'] = 'The administrator has still not received parent/guardian consent for your account.';
-$txt['coppa_need_more_details'] = 'Need more details?';
+$txt['coppa_no_concent'] = 'O administador aínda non recibiu o consentemento do teu pai/nai/tutor/a para a túa conta.';
+$txt['coppa_need_more_details'] = 'Necesita máis detalles?';
 
 $txt['awaiting_delete_account'] = '&iexcl;A túa conta foi marcada para se borrar!<br />Se desexas restaura-la túa conta, For favor selecciona a casiña &quot;Reactiva-la miña conta&quot;, e ingresa novamente.';
 $txt['undelete_account'] = 'Reactiva-la miña cuenta';
 
 // Use numeric entities in the below three strings.
 $txt['change_password'] = 'Detalles da nova contrase&#241;a';
-$txt['change_password_login'] = 'Your login details at';
-$txt['change_password_new'] = 'have been changed and your password reset. Below are your new login details.';
+$txt['change_password_login'] = 'Os detalles para o inicio da sesión en';
+$txt['change_password_new'] = 'cambiaron e o teu contrasinal reiniciouse. Debaixo están os novos detalles.';
 
-$txt['in_maintain_mode'] = 'This board is in Maintenance Mode.';
+$txt['in_maintain_mode'] = 'Este taboleiro está en modo de mantemento.';
 
 // These two are used as a javascript alert; please use international characters directly, not as entities.
 $txt['register_agree'] = 'Favor de ler/acepta-los t&#233;rminos para poder envia-la forma.';
@@ -76,25 +76,25 @@ $txt['approval_after_registration'] = 'Grazas por te rexistrar. O administrador 
 
 $txt['admin_settings_desc'] = 'Aqui podes cambiar varios parametros relacionados co rexistro de novos usuarios.';
 
-$txt['setting_enableOpenID'] = 'Allow users to register using OpenID';
+$txt['setting_enableOpenID'] = 'Permitir os usuarios iniciar sesión usando OpenID';
 
-$txt['setting_registration_method'] = 'Method of registration employed for new members';
-$txt['setting_registration_disabled'] = 'Registration Disabled';
-$txt['setting_registration_standard'] = 'Immediate Registration';
-$txt['setting_registration_activate'] = 'Email Activation';
-$txt['setting_registration_approval'] = 'Admin Approval';
-$txt['setting_notify_new_registration'] = 'Notify administrators when a new member joins';
-$txt['setting_send_welcomeEmail'] = 'Send welcome email to new members';
+$txt['setting_registration_method'] = 'Método de rexistro empregado por novos membros';
+$txt['setting_registration_disabled'] = 'Rexistro desactivado';
+$txt['setting_registration_standard'] = 'Rexistro inmediato';
+$txt['setting_registration_activate'] = 'Activación por email';
+$txt['setting_registration_approval'] = 'Aprobación do administrador';
+$txt['setting_notify_new_registration'] = 'Notificar os administradores cando se une un novo membro';
+$txt['setting_send_welcomeEmail'] = 'Enviar mensaxe de benvida os novos membros';
 
-$txt['setting_coppaAge'] = 'Age below which to apply registration restrictions';
-$txt['setting_coppaAge_desc'] = '(Set to 0 to disable)';
-$txt['setting_coppaType'] = 'Action to take when a user below minimum age registers';
-$txt['setting_coppaType_reject'] = 'Reject their registration';
-$txt['setting_coppaType_approval'] = 'Require parent/guardian approval';
-$txt['setting_coppaPost'] = 'Postal address to which approval forms should be sent';
-$txt['setting_coppaPost_desc'] = 'Only applies if age restriction is in place';
-$txt['setting_coppaFax'] = 'Fax number to which approval forms should be faxed';
-$txt['setting_coppaPhone'] = 'Contact number for parents to contact with age restriction queries';
+$txt['setting_coppaAge'] = 'Idade baixo a cal se aplican restriccións no rexistro';
+$txt['setting_coppaAge_desc'] = '(Introduza 0 para desactivar)';
+$txt['setting_coppaType'] = 'Acción a tomar cando se rexistre un usuario por debaixo da idade mínima';
+$txt['setting_coppaType_reject'] = 'Rexeitar o rexistro';
+$txt['setting_coppaType_approval'] = 'Requerir a aprovación do pai/nai/tutor/a';
+$txt['setting_coppaPost'] = 'Enderezo postal onde o formulario de aprovación debe ser enviado';
+$txt['setting_coppaPost_desc'] = 'So se aplica se se establen restriccións de idade';
+$txt['setting_coppaFax'] = 'Número de fax onde os formularios de aprobación deben ser enviados';
+$txt['setting_coppaPhone'] = 'Número de contacto para as dúbidas sobre a restricción de idade';
 
 $txt['admin_register'] = 'Rexistro dun novo usuario';
 $txt['admin_register_desc'] = 'Dende aqui podes rexistrar no foro novos usuarios e, de asi lo desexa, lles envia-los seus detalles por email.';
@@ -110,7 +110,7 @@ $txt['admin_register_email_activate'] = 'Lle pedir ó usuario que active a cuent
 $txt['admin_register_group'] = 'Grupo primario';
 $txt['admin_register_group_desc'] = 'Grupo de usuario primario ó que o novo usuario pertenecera';
 $txt['admin_register_group_none'] = '(sen grupo primario)';
-$txt['admin_register_done'] = 'Member %1$s has been registered successfully!';
+$txt['admin_register_done'] = 'O membro %1$s foi rexistrado con éxito!';
 
 $txt['coppa_title'] = 'Foro con restriccion de idade';
 $txt['coppa_after_registration'] = 'Grazas por te rexistrar con ' . $context['forum_name'] . '.<br /><br />Debido a que estas por debaixo da idade de {MINIMUM_AGE}, hai un requirimento legal
@@ -128,25 +128,25 @@ $txt['coppa_form_address'] = 'Direccion';
 $txt['coppa_form_date'] = 'Data';
 $txt['coppa_form_body'] = 'Eu {PARENT_NAME},<br /><br />dou o permiso para que {CHILD_NAME} (child name) convértase nun usuario rexistrado do foro: ' . $context['forum_name'] . ', co nome de usuario: {USER_NAME}.<br /><br />Entendo que certa informacion persoal proporcionada por {USER_NAME} pode que sexa amosada a outros usuarios do foro.<br /><br />Asinado por:<br />{PARENT_NAME} (Pai/Titor).';
 
-$txt['visual_verification_sound_again'] = 'Play again';
-$txt['visual_verification_sound_close'] = 'Close window';
-$txt['visual_verification_sound_direct'] = 'Having problems hearing this?  Try a direct link to it.';
+$txt['visual_verification_sound_again'] = 'Reproducir de novo';
+$txt['visual_verification_sound_close'] = 'Pechar xanela';
+$txt['visual_verification_sound_direct'] = 'Problemas escoitando isto? Probe unha ligazón directa.';
 
 // Use numeric entities in the below.
-$txt['registration_username_available'] = 'Username is available';
-$txt['registration_username_unavailable'] = 'Username is not available';
-$txt['registration_username_check'] = 'Check if username is available';
-$txt['registration_password_short'] = 'Password is too short';
-$txt['registration_password_reserved'] = 'Password contains your username/email';
-$txt['registration_password_numbercase'] = 'Password must contain both upper and lower case, and numbers';
-$txt['registration_password_no_match'] = 'Passwords do not match';
-$txt['registration_password_valid'] = 'Password is valid';
+$txt['registration_username_available'] = 'Nome de usuario dispoñible';
+$txt['registration_username_unavailable'] = 'Nome de usuario non dispoñible';
+$txt['registration_username_check'] = 'Comprobar se o nome de usuario está dispoñible';
+$txt['registration_password_short'] = 'O contrasinal é moi curto';
+$txt['registration_password_reserved'] = 'O contrasinal contén o teu nome de usuario/email';
+$txt['registration_password_numbercase'] = 'O contrasianl debe incluir letras maiúsculas, minúsculas e números';
+$txt['registration_password_no_match'] = 'Os contrasinais non coinciden';
+$txt['registration_password_valid'] = 'Contrasinal válido';
 
-$txt['registration_errors_occurred'] = 'The following errors were detected in your registration. Please correct them to continue:';
+$txt['registration_errors_occurred'] = 'Os erros seguintes foron detectados no teu rexistro. Por favor, corrixeos para continuar:';
 
-$txt['authenticate_label'] = 'Authentication Method';
-$txt['authenticate_password'] = 'Password';
+$txt['authenticate_label'] = 'Métodos de autenticación';
+$txt['authenticate_password'] = 'Contrasinal';
 $txt['authenticate_openid'] = 'OpenID';
-$txt['authenticate_openid_url'] = 'OpenID Authentication URL';
+$txt['authenticate_openid_url'] = 'URL para autenticación OpenID';
 
 ?>
