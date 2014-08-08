@@ -2,45 +2,45 @@
 // Version: 2.0; ManageCalendar
 
 // Important! Before editing these language files please read the text at the top of index.english.php.
-$txt['calendar_desc'] = 'Aqui podes modificar tódolos aspectos do calendario.';
+$txt['calendar_desc'] = 'Aquí podes modificar tódolos aspectos do calendario.';
 
 // Calendar Settings
-$txt['calendar_settings_desc'] = 'Aqui podes activa-lo calendario, e determina-la configuracion que utilizase.';
-$txt['save_settings'] = 'Gardar configuracio';
-$txt['groups_calendar_view'] = 'Membergroups allowed to view the calendar';
-$txt['groups_calendar_post'] = 'Membergroups allowed to create events';
-$txt['groups_calendar_edit_own'] = 'Membergroups allowed to edit their own events';
-$txt['groups_calendar_edit_any'] = 'Membergroups allowed to edit any events';
+$txt['calendar_settings_desc'] = 'Aquí podes activa-lo calendario, e determina-la configuración que se utiliza.';
+$txt['save_settings'] = 'Gardar configuración';
+$txt['groups_calendar_view'] = 'Grupos que poden ve-lo calendario';
+$txt['groups_calendar_post'] = 'Grupos que poden crear eventos';
+$txt['groups_calendar_edit_own'] = 'Grupos que poden editar os seus propios eventos';
+$txt['groups_calendar_edit_any'] = 'Grupos que poden editar calqueira evento';
 $txt['setting_cal_enabled'] = 'Activado';
-$txt['setting_cal_daysaslink'] = 'Amosar dias como enlaces a Publicar evento';
-$txt['setting_cal_days_for_index'] = 'Maximo de dias adiantados no indice do Foro';
-$txt['setting_cal_showholidays'] = 'Amosar dias festivos';
-$txt['setting_cal_showbdays'] = 'Amosar aniversario';
+$txt['setting_cal_daysaslink'] = 'Amosar días como ligazóns a Publicar evento';
+$txt['setting_cal_days_for_index'] = 'Maximo de días adiantados no índice do Foro';
+$txt['setting_cal_showholidays'] = 'Amosar días festivos';
+$txt['setting_cal_showbdays'] = 'Amosar aniversarios';
 $txt['setting_cal_showevents'] = 'Amosar eventos';
 $txt['setting_cal_show_never'] = 'Nunca';
-$txt['setting_cal_show_cal'] = 'Solamente no calendario';
-$txt['setting_cal_show_index'] = 'Solamente no indice do foro';
-$txt['setting_cal_show_all'] = 'Amosar en indice do foro e no calendario';
-$txt['setting_cal_defaultboard'] = 'Foro por defectodonde publicásese';
-$txt['setting_cal_allow_unlinked'] = 'Permitir eventos non enlazados a mensaxes';
-$txt['setting_cal_minyear'] = 'Ano minimo';
-$txt['setting_cal_maxyear'] = 'Ano maximo';
-$txt['setting_cal_allowspan'] = 'Permitir que os eventos esténdanse varios dias';
-$txt['setting_cal_maxspan'] = 'Max. numero de dias que un evento pode se expandir';
-$txt['setting_cal_showInTopic'] = 'Amosar eventos enlazados na visualizacion de temas';
+$txt['setting_cal_show_cal'] = 'Soamente no calendario';
+$txt['setting_cal_show_index'] = 'Soamente no índice do foro';
+$txt['setting_cal_show_all'] = 'Amosar no índice do foro e no calendario';
+$txt['setting_cal_defaultboard'] = 'Foro por defecto onde se publica';
+$txt['setting_cal_allow_unlinked'] = 'Permitir eventos non ligados a mensaxes';
+$txt['setting_cal_minyear'] = 'Ano mínimo';
+$txt['setting_cal_maxyear'] = 'Ano máximo';
+$txt['setting_cal_allowspan'] = 'Permitir que os eventos esténdanse varios días';
+$txt['setting_cal_maxspan'] = 'Max. número de días que un evento podese expandir';
+$txt['setting_cal_showInTopic'] = 'Amosar eventos ligados na visualizacion de temas';
 
 // Adding/Editing/Viewing Holidays
-$txt['manage_holidays_desc'] = 'Aqui podes agregar e elimina-los dias festivos do teu calendario.';
+$txt['manage_holidays_desc'] = 'Aquí podes agregar e elimina-los días festivos do teu calendario.';
 $txt['current_holidays'] = 'Día festivo actual';
 $txt['holidays_title'] = 'Día festivo';
-$txt['holidays_title_label'] = 'Titulo';
+$txt['holidays_title_label'] = 'Título';
 $txt['holidays_delete_confirm'] = '&#191;Est&#225;s seguro que desexas eliminar estes d&#237;as festivos?';
 $txt['holidays_add'] = 'Agregar novo día festivo';
 $txt['holidays_edit'] = 'Editar día festivo existente';
 $txt['holidays_button_add'] = 'Agregar';
 $txt['holidays_button_edit'] = 'Editar';
 $txt['holidays_button_remove'] = 'Eliminar';
-$txt['holidays_no_entries'] = 'There are currently no holidays configured.';
+$txt['holidays_no_entries'] = 'Non hai festivos configurados neste momento.';
 $txt['every_year'] = 'Cada ano';
 
 ?>
